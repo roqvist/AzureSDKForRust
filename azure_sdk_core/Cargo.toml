@@ -38,6 +38,7 @@ smallvec                = { version        = "1.0"            , features = ["ser
 bytes                   = "0.5"
 hyper-rustls            = "0.19"
 reqwest                 = "0.10"
+failure                 = "0.1.6"
 
 [dev-dependencies]
 tokio                   = "0.2"
